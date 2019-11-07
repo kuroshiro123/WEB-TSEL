@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "nobody",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "WEB-TSEL",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
